@@ -1,0 +1,89 @@
+@font-face {
+	font-family: 'Sirius_ios';
+	src:url('fonts/Sirius_ios.eot?g7w8w5');
+	src:url('fonts/Sirius_ios.eot?#iefixg7w8w5') format('embedded-opentype'),
+		url('fonts/Sirius_ios.woff?g7w8w5') format('woff'),
+		url('fonts/Sirius_ios.ttf?g7w8w5') format('truetype'),
+		url('fonts/Sirius_ios.svg?g7w8w5#Sirius_ios') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'Sirius_ios';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dossier:before {
+	content: "\e600";
+}
+
+.icon-placeholder:before {
+	content: "\e601";
+}
+
+.icon-placeholder2:before {
+	content: "\e602";
+}
+
+.icon-placeholder3:before {
+	content: "\e603";
+}
+
+.icon-search:before {
+	content: "\e604";
+}
+
+.icon-placeholder4:before {
+	content: "\e605";
+}
+
+.icon-placeholder5:before {
+	content: "\e606";
+}
+
+.icon-filter:before {
+	content: "\e607";
+}
+
+.icon-placeholder6:before {
+	content: "\e608";
+}
+
+.icon-placeholder7:before {
+	content: "\e609";
+}
+
+.icon-sort:before {
+	content: "\e60a";
+}
+
+.icon-placeholder8:before {
+	content: "\e60b";
+}
+
+.icon-placeholder9:before {
+	content: "\e60c";
+}
+
+.icon-share:before {
+	content: "\e60d";
+}
+
+.icon-placeholder10:before {
+	content: "\e60e";
+}
+
+.icon-placeholder11:before {
+	content: "\e60f";
+}
+
